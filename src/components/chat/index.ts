@@ -1,0 +1,1 @@
+export { InventraChatPanel } from './InventraChatPanel';

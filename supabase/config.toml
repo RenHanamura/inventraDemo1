@@ -1,0 +1,13 @@
+project_id = "kxonavktllgwkfwekzdx"
+
+[functions.inventra-chat]
+verify_jwt = false
+
+[functions.invite-member]
+verify_jwt = false
+
+[functions.ai-insights]
+verify_jwt = false
+
+[functions.ai-suggestions]
+verify_jwt = false
